@@ -10,9 +10,9 @@ import Tela2 from './components/Tela2';
 import Tela3 from './components/Tela3';
 
 const estados = [
-  {id: 1, name: 'primeira'},
-  {id: 2, name: 'segunda'},
-  {id: 3, name: 'terceira'},
+  {name: 'primeira'},
+  {name: 'segunda'},
+  {name: 'terceira'},
 ]
 
 function App() {
